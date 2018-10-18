@@ -1,0 +1,38 @@
+body{
+	margin: 0px;
+}
+table tr td{
+	padding: 5px;
+}
+table{
+	margin-top: 490px;
+	margin-left: 500px;
+}
+#teks{
+	font-size: 20px;
+	text-align: left;
+}
+#wrapper{
+	height: 100%;
+	width: 100%;
+	background-image: url('pantai.jpg');
+	background-size: cover;
+}
+#logo{
+	width: 250px;
+	margin-top: -50px;
+}
+#menu li a{
+	display: inline;
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+	margin: 40px;
+}
+#menu li {
+	list-style-type: none;
+}
+#menu{
+	margin-left: 300px;
+	margin-top: -130px;
+}
